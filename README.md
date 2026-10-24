@@ -11,12 +11,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a Computer Science Engineering student at **Government Engineering College, Hassan**.
 - 💻 I enjoy building full-stack web applications and solving real-world problems through technology.
 - 🤖 I'm exploring **Artificial Intelligence, Machine Learning, and AI Agents**.
 - 🏆 I love participating in hackathons and collaborating with developers to build innovative solutions.
 - 🌱 Currently improving my skills in backend development, AI integration, and Data Structures & Algorithms.
-- 🎯 My goal is to become a skilled software engineer and build technology that makes a difference.
 - 🚀 I believe in learning by building, experimenting, and never giving up.
 
 ---
