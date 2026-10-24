@@ -39,7 +39,7 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,c" alt="Programming Languages"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -106,20 +106,7 @@ A smart shopping application designed to improve the shopping experience through
 - 🚀 Exploring innovative ideas across AI, healthcare, education, and developer tools.
 - 🎯 Focused on turning ideas into working software.
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SharathKumar-M&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharathKumar-M&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SharathKumar-M&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -130,7 +117,7 @@ A smart shopping application designed to improve the shopping experience through
   <a href="https://sharath-m-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <!-- Add your LinkedIn profile URL here -->
+  https://www.linkedin.com/in/sharath-m-3926b9341/?isSelfProfile=true
   <!-- Add your professional email here -->
 </p>
 
