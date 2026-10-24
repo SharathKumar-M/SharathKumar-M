@@ -7,19 +7,6 @@
 <h3 align="center">
   Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast
 </h3>
-
-<p align="center">
-  <a href="https://github.com/SharathKumar-M">
-    <img src="https://komarev.com/ghpvc/?username=SharathKumar-M&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SharathKumar-M">
-    <img src="https://img.shields.io/github/followers/SharathKumar-M?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
