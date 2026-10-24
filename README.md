@@ -73,23 +73,8 @@ An AI-powered project focused on understanding GitHub repositories, explaining c
 An emergency assistance project designed to help users quickly contact emergency services, send alerts, and find nearby hospitals.
 
 **Focus:** Emergency assistance, location-based services, and user-friendly design.
-
-### 🛒 Smart Shopping Assistant
-
-A smart shopping application designed to improve the shopping experience through useful digital features.
-
-**Focus:** Full-stack development and intelligent shopping experiences.
-
-> Replace the project descriptions above with your latest implementation details and add repository links when ready.
-
 ---
 
-## 🏆 Hackathons & Innovation
-
-- 💡 Interested in building practical solutions for real-world problems.
-- 🤝 Enjoy collaborating with teams and learning from other developers.
-- 🚀 Exploring innovative ideas across AI, healthcare, education, and developer tools.
-- 🎯 Focused on turning ideas into working software.
 
 
 
