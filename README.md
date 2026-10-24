@@ -117,7 +117,9 @@ A smart shopping application designed to improve the shopping experience through
   <a href="https://sharath-m-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  https://www.linkedin.com/in/sharath-m-3926b9341/?isSelfProfile=true
+  <a href="https://www.linkedin.com/in/sharath-m-3926b9341/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
   <!-- Add your professional email here -->
 </p>
 
